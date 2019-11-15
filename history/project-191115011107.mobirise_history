@@ -67,8 +67,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///C:/Users/tuvae/Website",
-    "screenshot": "screenshot.png"
+    "publishPath": "file:///C:/Users/tuvae/Website"
   },
   "pages": {
     "index.html": {
